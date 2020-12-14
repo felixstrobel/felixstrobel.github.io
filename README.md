@@ -1,1 +1,4 @@
-# felixstrobel.github.io
+# TODO
+
+[ ] Small resume page
+[ ] Cool intro
