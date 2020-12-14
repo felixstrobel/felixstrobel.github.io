@@ -1,4 +1,4 @@
 # TODO
 
-[ ] Small resume page
-[ ] Cool intro
+- [ ] Small resume page
+- [ ] Cool intro
